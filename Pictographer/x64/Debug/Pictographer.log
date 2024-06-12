@@ -1,0 +1,6 @@
+﻿  Window.cpp
+d:\projects\c++\pictographer\pictographer\window.cpp(54): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+d:\projects\c++\pictographer\pictographer\window.cpp(67): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+d:\projects\c++\pictographer\pictographer\window.cpp(315): warning C4312: 'type cast': conversion from 'INT' to 'HMENU' of greater size
+  Pictographer.vcxproj -> D:\Projects\C++\Pictographer\x64\Debug\Pictographer.exe
+  Pictographer.vcxproj -> D:\Projects\C++\Pictographer\x64\Debug\Pictographer.pdb (Full PDB)
